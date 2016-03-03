@@ -1,0 +1,1240 @@
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 0
+New page entry stored in ram at index value 0
+Trying to get the value of address 0
+ Trying to store the value 0 at address 0 in the page table
+The page request at address 0 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 1
+New page entry stored in ram at index value 1
+Trying to get the value of address 1
+ Trying to store the value 3 at address 1 in the page table
+The page request at address 1 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 2
+New page entry stored in ram at index value 2
+Trying to get the value of address 2
+ Trying to store the value 6 at address 2 in the page table
+The page request at address 2 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 3
+New page entry stored in ram at index value 3
+Trying to get the value of address 3
+ Trying to store the value 9 at address 3 in the page table
+The page request at address 3 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 4
+New page entry stored in ram at index value 4
+Trying to get the value of address 4
+ Trying to store the value 12 at address 4 in the page table
+The page request at address 4 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 5
+New page entry stored in ram at index value 5
+Trying to get the value of address 5
+ Trying to store the value 15 at address 5 in the page table
+The page request at address 5 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 6
+New page entry stored in ram at index value 6
+Trying to get the value of address 6
+ Trying to store the value 18 at address 6 in the page table
+The page request at address 6 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 7
+New page entry stored in ram at index value 7
+Trying to get the value of address 7
+ Trying to store the value 21 at address 7 in the page table
+The page request at address 7 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 8
+New page entry stored in ram at index value 8
+Trying to get the value of address 8
+ Trying to store the value 24 at address 8 in the page table
+The page request at address 8 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 9
+New page entry stored in ram at index value 9
+Trying to get the value of address 9
+ Trying to store the value 27 at address 9 in the page table
+The page request at address 9 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 10
+New page entry stored in ram at index value 10
+Trying to get the value of address 10
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 11
+New page entry stored in ram at index value 11
+Trying to get the value of address 11
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 12
+New page entry stored in ram at index value 12
+Trying to get the value of address 12
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 13
+New page entry stored in ram at index value 13
+Trying to get the value of address 13
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 14
+New page entry stored in ram at index value 14
+Trying to get the value of address 14
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 15
+New page entry stored in ram at index value 15
+Trying to get the value of address 15
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 16
+New page entry stored in ram at index value 16
+Trying to get the value of address 16
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 17
+New page entry stored in ram at index value 17
+Trying to get the value of address 17
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 18
+New page entry stored in ram at index value 18
+Trying to get the value of address 18
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 19
+New page entry stored in ram at index value 19
+Trying to get the value of address 19
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 20
+New page entry stored in ram at index value 20
+Trying to get the value of address 20
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 21
+New page entry stored in ram at index value 21
+Trying to get the value of address 21
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 22
+New page entry stored in ram at index value 22
+Trying to get the value of address 22
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 23
+New page entry stored in ram at index value 23
+Trying to get the value of address 23
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 24
+New page entry stored in ram at index value 24
+Trying to get the value of address 24
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 10
+New page entry stored in ptable address at 25
+New page entry stored in ram at index value 10
+Trying to get the value of address 25
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 25
+New page entry stored in ptable address at 26
+New page entry stored in ram at index value 10
+Trying to get the value of address 26
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 26
+New page entry stored in ptable address at 27
+New page entry stored in ram at index value 10
+Trying to get the value of address 27
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 27
+New page entry stored in ptable address at 28
+New page entry stored in ram at index value 10
+Trying to get the value of address 28
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 28
+New page entry stored in ptable address at 29
+New page entry stored in ram at index value 10
+Trying to get the value of address 29
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 29
+New page entry stored in ptable address at 30
+New page entry stored in ram at index value 10
+Trying to get the value of address 30
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 30
+New page entry stored in ptable address at 31
+New page entry stored in ram at index value 10
+Trying to get the value of address 31
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 31
+New page entry stored in ptable address at 32
+New page entry stored in ram at index value 10
+Trying to get the value of address 32
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 32
+New page entry stored in ptable address at 33
+New page entry stored in ram at index value 10
+Trying to get the value of address 33
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 33
+New page entry stored in ptable address at 34
+New page entry stored in ram at index value 10
+Trying to get the value of address 34
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 34
+New page entry stored in ptable address at 35
+New page entry stored in ram at index value 10
+Trying to get the value of address 35
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 35
+New page entry stored in ptable address at 36
+New page entry stored in ram at index value 10
+Trying to get the value of address 36
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 36
+New page entry stored in ptable address at 37
+New page entry stored in ram at index value 10
+Trying to get the value of address 37
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 37
+New page entry stored in ptable address at 38
+New page entry stored in ram at index value 10
+Trying to get the value of address 38
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 38
+New page entry stored in ptable address at 39
+New page entry stored in ram at index value 10
+Trying to get the value of address 39
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 39
+New page entry stored in ptable address at 40
+New page entry stored in ram at index value 10
+Trying to get the value of address 40
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 40
+New page entry stored in ptable address at 41
+New page entry stored in ram at index value 10
+Trying to get the value of address 41
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 41
+New page entry stored in ptable address at 42
+New page entry stored in ram at index value 10
+Trying to get the value of address 42
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 42
+New page entry stored in ptable address at 43
+New page entry stored in ram at index value 10
+Trying to get the value of address 43
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 43
+New page entry stored in ptable address at 44
+New page entry stored in ram at index value 10
+Trying to get the value of address 44
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 44
+New page entry stored in ptable address at 45
+New page entry stored in ram at index value 10
+Trying to get the value of address 45
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 45
+New page entry stored in ptable address at 46
+New page entry stored in ram at index value 10
+Trying to get the value of address 46
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 46
+New page entry stored in ptable address at 47
+New page entry stored in ram at index value 10
+Trying to get the value of address 47
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 47
+New page entry stored in ptable address at 48
+New page entry stored in ram at index value 10
+Trying to get the value of address 48
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 48
+New page entry stored in ptable address at 49
+New page entry stored in ram at index value 10
+Trying to get the value of address 49
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 49
+New page entry stored in ptable address at 50
+New page entry stored in ram at index value 10
+Trying to get the value of address 50
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 50
+New page entry stored in ptable address at 51
+New page entry stored in ram at index value 10
+Trying to get the value of address 51
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 51
+New page entry stored in ptable address at 52
+New page entry stored in ram at index value 10
+Trying to get the value of address 52
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 52
+New page entry stored in ptable address at 53
+New page entry stored in ram at index value 10
+Trying to get the value of address 53
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 53
+New page entry stored in ptable address at 54
+New page entry stored in ram at index value 10
+Trying to get the value of address 54
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 54
+New page entry stored in ptable address at 55
+New page entry stored in ram at index value 10
+Trying to get the value of address 55
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 55
+New page entry stored in ptable address at 56
+New page entry stored in ram at index value 10
+Trying to get the value of address 56
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 56
+New page entry stored in ptable address at 57
+New page entry stored in ram at index value 10
+Trying to get the value of address 57
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 57
+New page entry stored in ptable address at 58
+New page entry stored in ram at index value 10
+Trying to get the value of address 58
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 58
+New page entry stored in ptable address at 59
+New page entry stored in ram at index value 10
+Trying to get the value of address 59
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 59
+New page entry stored in ptable address at 60
+New page entry stored in ram at index value 10
+Trying to get the value of address 60
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 60
+New page entry stored in ptable address at 61
+New page entry stored in ram at index value 10
+Trying to get the value of address 61
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 61
+New page entry stored in ptable address at 62
+New page entry stored in ram at index value 10
+Trying to get the value of address 62
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 62
+New page entry stored in ptable address at 63
+New page entry stored in ram at index value 10
+Trying to get the value of address 63
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 63
+New page entry stored in ptable address at 64
+New page entry stored in ram at index value 10
+Trying to get the value of address 64
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 64
+New page entry stored in ptable address at 65
+New page entry stored in ram at index value 10
+Trying to get the value of address 65
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 65
+New page entry stored in ptable address at 66
+New page entry stored in ram at index value 10
+Trying to get the value of address 66
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 66
+New page entry stored in ptable address at 67
+New page entry stored in ram at index value 10
+Trying to get the value of address 67
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 67
+New page entry stored in ptable address at 68
+New page entry stored in ram at index value 10
+Trying to get the value of address 68
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 68
+New page entry stored in ptable address at 69
+New page entry stored in ram at index value 10
+Trying to get the value of address 69
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 69
+New page entry stored in ptable address at 70
+New page entry stored in ram at index value 10
+Trying to get the value of address 70
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 70
+New page entry stored in ptable address at 71
+New page entry stored in ram at index value 10
+Trying to get the value of address 71
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 71
+New page entry stored in ptable address at 72
+New page entry stored in ram at index value 10
+Trying to get the value of address 72
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 72
+New page entry stored in ptable address at 73
+New page entry stored in ram at index value 10
+Trying to get the value of address 73
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 73
+New page entry stored in ptable address at 74
+New page entry stored in ram at index value 10
+Trying to get the value of address 74
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 74
+New page entry stored in ptable address at 75
+New page entry stored in ram at index value 10
+Trying to get the value of address 75
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 75
+New page entry stored in ptable address at 76
+New page entry stored in ram at index value 10
+Trying to get the value of address 76
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 76
+New page entry stored in ptable address at 77
+New page entry stored in ram at index value 10
+Trying to get the value of address 77
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 77
+New page entry stored in ptable address at 78
+New page entry stored in ram at index value 10
+Trying to get the value of address 78
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 78
+New page entry stored in ptable address at 79
+New page entry stored in ram at index value 10
+Trying to get the value of address 79
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 79
+New page entry stored in ptable address at 80
+New page entry stored in ram at index value 10
+Trying to get the value of address 80
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 80
+New page entry stored in ptable address at 81
+New page entry stored in ram at index value 10
+Trying to get the value of address 81
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 81
+New page entry stored in ptable address at 82
+New page entry stored in ram at index value 10
+Trying to get the value of address 82
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 82
+New page entry stored in ptable address at 83
+New page entry stored in ram at index value 10
+Trying to get the value of address 83
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 83
+New page entry stored in ptable address at 84
+New page entry stored in ram at index value 10
+Trying to get the value of address 84
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 84
+New page entry stored in ptable address at 85
+New page entry stored in ram at index value 10
+Trying to get the value of address 85
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 85
+New page entry stored in ptable address at 86
+New page entry stored in ram at index value 10
+Trying to get the value of address 86
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 86
+New page entry stored in ptable address at 87
+New page entry stored in ram at index value 10
+Trying to get the value of address 87
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 87
+New page entry stored in ptable address at 88
+New page entry stored in ram at index value 10
+Trying to get the value of address 88
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 88
+New page entry stored in ptable address at 89
+New page entry stored in ram at index value 10
+Trying to get the value of address 89
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 89
+New page entry stored in ptable address at 90
+New page entry stored in ram at index value 10
+Trying to get the value of address 90
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 90
+New page entry stored in ptable address at 91
+New page entry stored in ram at index value 10
+Trying to get the value of address 91
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 91
+New page entry stored in ptable address at 92
+New page entry stored in ram at index value 10
+Trying to get the value of address 92
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 92
+New page entry stored in ptable address at 93
+New page entry stored in ram at index value 10
+Trying to get the value of address 93
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 93
+New page entry stored in ptable address at 94
+New page entry stored in ram at index value 10
+Trying to get the value of address 94
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 94
+New page entry stored in ptable address at 95
+New page entry stored in ram at index value 10
+Trying to get the value of address 95
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 95
+New page entry stored in ptable address at 96
+New page entry stored in ram at index value 10
+Trying to get the value of address 96
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 96
+New page entry stored in ptable address at 97
+New page entry stored in ram at index value 10
+Trying to get the value of address 97
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 97
+New page entry stored in ptable address at 98
+New page entry stored in ram at index value 10
+Trying to get the value of address 98
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 98
+New page entry stored in ptable address at 99
+New page entry stored in ram at index value 10
+Trying to get the value of address 99
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 99
+New page entry stored in ptable address at 100
+New page entry stored in ram at index value 10
+Trying to get the value of address 100
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 100
+New page entry stored in ptable address at 101
+New page entry stored in ram at index value 10
+Trying to get the value of address 101
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 101
+New page entry stored in ptable address at 102
+New page entry stored in ram at index value 10
+Trying to get the value of address 102
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 102
+New page entry stored in ptable address at 103
+New page entry stored in ram at index value 10
+Trying to get the value of address 103
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 103
+New page entry stored in ptable address at 104
+New page entry stored in ram at index value 10
+Trying to get the value of address 104
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 104
+New page entry stored in ptable address at 105
+New page entry stored in ram at index value 10
+Trying to get the value of address 105
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 105
+New page entry stored in ptable address at 106
+New page entry stored in ram at index value 10
+Trying to get the value of address 106
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 106
+New page entry stored in ptable address at 107
+New page entry stored in ram at index value 10
+Trying to get the value of address 107
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 107
+New page entry stored in ptable address at 108
+New page entry stored in ram at index value 10
+Trying to get the value of address 108
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 108
+New page entry stored in ptable address at 109
+New page entry stored in ram at index value 10
+Trying to get the value of address 109
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 109
+New page entry stored in ptable address at 110
+New page entry stored in ram at index value 10
+Trying to get the value of address 110
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 110
+New page entry stored in ptable address at 111
+New page entry stored in ram at index value 10
+Trying to get the value of address 111
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 111
+New page entry stored in ptable address at 112
+New page entry stored in ram at index value 10
+Trying to get the value of address 112
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 112
+New page entry stored in ptable address at 113
+New page entry stored in ram at index value 10
+Trying to get the value of address 113
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 113
+New page entry stored in ptable address at 114
+New page entry stored in ram at index value 10
+Trying to get the value of address 114
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 114
+New page entry stored in ptable address at 115
+New page entry stored in ram at index value 10
+Trying to get the value of address 115
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 115
+New page entry stored in ptable address at 116
+New page entry stored in ram at index value 10
+Trying to get the value of address 116
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 116
+New page entry stored in ptable address at 117
+New page entry stored in ram at index value 10
+Trying to get the value of address 117
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 117
+New page entry stored in ptable address at 118
+New page entry stored in ram at index value 10
+Trying to get the value of address 118
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 118
+New page entry stored in ptable address at 119
+New page entry stored in ram at index value 10
+Trying to get the value of address 119
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 119
+New page entry stored in ptable address at 120
+New page entry stored in ram at index value 10
+Trying to get the value of address 120
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 120
+New page entry stored in ptable address at 121
+New page entry stored in ram at index value 10
+Trying to get the value of address 121
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 121
+New page entry stored in ptable address at 122
+New page entry stored in ram at index value 10
+Trying to get the value of address 122
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 122
+New page entry stored in ptable address at 123
+New page entry stored in ram at index value 10
+Trying to get the value of address 123
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 123
+New page entry stored in ptable address at 124
+New page entry stored in ram at index value 10
+Trying to get the value of address 124
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 124
+No space in ssd, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 0
+New page entry stored in ptable address at 125
+New page entry stored in ram at index value 10
+Trying to get the value of address 125
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 125
+No space in ssd, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 0
+New page entry stored in ptable address at 126
+New page entry stored in ram at index value 10
+Trying to get the value of address 126
+ 
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 126
+No space in ssd, evicting a page!
+Removing a page which is least accessed. If more than one, select anyone
+Turns out, the page to be removed is 0
+New page entry stored in ptable address at 127
+New page entry stored in ram at index value 10
+Trying to get the value of address 127
+ freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+
+
+ TOTAL TIME TAKEN IS: 0.008422 
+

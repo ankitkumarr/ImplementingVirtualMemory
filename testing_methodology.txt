@@ -1,0 +1,32 @@
+Ankit Kumar	akumar3@wpi.edu
+
+
+Our 3 different executables uses 3 different algorithms for evicting pages out:
+
+1) Random eviction
+This algorithm selects a random index to be evicted out.
+To test this, we modified the memoryMaxer() to allow only 128 pages to test hdd, ram and ssd
+We found, total time taken was: 0.014764 cpu time    (from test1 file)
+
+2) Least Used
+This algorithm evicts out any of the least used pages.
+To test this, in the memoryMaxer() we added a check to only allow pages under index 10 to store values.
+By doing this, pages after 10 were not using store_value and hence were used lesser than others. By running our algorithm, we verified that pages after 10 were being evicted.
+Hence, we can say with assurance that this algorithm works.
+We found, total time taken was: 0.008422 cpu time   (from test2 file)
+
+3) FIFO 
+This algorithm evicts out the page that first got created.
+To test this, we printed out which page was being evicted while also storing 128 pages (greater than ram + ssd). We verified that pages that were created initially got 
+evicted out first. So, eviction index started from 0 and went on. So, we are confident that this algorithm works properly.
+We found, total time taken was: 0.014046 cpu time (from test3 file)
+
+
+FROM OUR RESULTS,
+I can conclude that Least Used algorithm was the best algorithm since it took the least time. Which means that there were less page faults associated with it.
+Random and FIFO were close and are not good with practice because they might remove important pages.
+
+
+THANK YOU!
+
+

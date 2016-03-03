@@ -1,0 +1,1368 @@
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 0
+New page entry stored in ram at index value 0
+Trying to get the value of address 0
+ Trying to store the value 0 at address 0 in the page table
+The page request at address 0 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 1
+New page entry stored in ram at index value 1
+Trying to get the value of address 1
+ Trying to store the value 3 at address 1 in the page table
+The page request at address 1 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 2
+New page entry stored in ram at index value 2
+Trying to get the value of address 2
+ Trying to store the value 6 at address 2 in the page table
+The page request at address 2 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 3
+New page entry stored in ram at index value 3
+Trying to get the value of address 3
+ Trying to store the value 9 at address 3 in the page table
+The page request at address 3 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 4
+New page entry stored in ram at index value 4
+Trying to get the value of address 4
+ Trying to store the value 12 at address 4 in the page table
+The page request at address 4 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 5
+New page entry stored in ram at index value 5
+Trying to get the value of address 5
+ Trying to store the value 15 at address 5 in the page table
+The page request at address 5 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 6
+New page entry stored in ram at index value 6
+Trying to get the value of address 6
+ Trying to store the value 18 at address 6 in the page table
+The page request at address 6 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 7
+New page entry stored in ram at index value 7
+Trying to get the value of address 7
+ Trying to store the value 21 at address 7 in the page table
+The page request at address 7 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 8
+New page entry stored in ram at index value 8
+Trying to get the value of address 8
+ Trying to store the value 24 at address 8 in the page table
+The page request at address 8 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 9
+New page entry stored in ram at index value 9
+Trying to get the value of address 9
+ Trying to store the value 27 at address 9 in the page table
+The page request at address 9 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 10
+New page entry stored in ram at index value 10
+Trying to get the value of address 10
+ Trying to store the value 30 at address 10 in the page table
+The page request at address 10 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 11
+New page entry stored in ram at index value 11
+Trying to get the value of address 11
+ Trying to store the value 33 at address 11 in the page table
+The page request at address 11 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 12
+New page entry stored in ram at index value 12
+Trying to get the value of address 12
+ Trying to store the value 36 at address 12 in the page table
+The page request at address 12 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 13
+New page entry stored in ram at index value 13
+Trying to get the value of address 13
+ Trying to store the value 39 at address 13 in the page table
+The page request at address 13 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 14
+New page entry stored in ram at index value 14
+Trying to get the value of address 14
+ Trying to store the value 42 at address 14 in the page table
+The page request at address 14 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 15
+New page entry stored in ram at index value 15
+Trying to get the value of address 15
+ Trying to store the value 45 at address 15 in the page table
+The page request at address 15 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 16
+New page entry stored in ram at index value 16
+Trying to get the value of address 16
+ Trying to store the value 48 at address 16 in the page table
+The page request at address 16 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 17
+New page entry stored in ram at index value 17
+Trying to get the value of address 17
+ Trying to store the value 51 at address 17 in the page table
+The page request at address 17 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 18
+New page entry stored in ram at index value 18
+Trying to get the value of address 18
+ Trying to store the value 54 at address 18 in the page table
+The page request at address 18 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 19
+New page entry stored in ram at index value 19
+Trying to get the value of address 19
+ Trying to store the value 57 at address 19 in the page table
+The page request at address 19 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 20
+New page entry stored in ram at index value 20
+Trying to get the value of address 20
+ Trying to store the value 60 at address 20 in the page table
+The page request at address 20 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 21
+New page entry stored in ram at index value 21
+Trying to get the value of address 21
+ Trying to store the value 63 at address 21 in the page table
+The page request at address 21 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 22
+New page entry stored in ram at index value 22
+Trying to get the value of address 22
+ Trying to store the value 66 at address 22 in the page table
+The page request at address 22 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 23
+New page entry stored in ram at index value 23
+Trying to get the value of address 23
+ Trying to store the value 69 at address 23 in the page table
+The page request at address 23 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+New page entry stored in ptable address at 24
+New page entry stored in ram at index value 24
+Trying to get the value of address 24
+ Trying to store the value 72 at address 24 in the page table
+The page request at address 24 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 0
+New page entry stored in ptable address at 25
+New page entry stored in ram at index value 0
+Trying to get the value of address 25
+ Trying to store the value 75 at address 25 in the page table
+The page request at address 25 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 1
+New page entry stored in ptable address at 26
+New page entry stored in ram at index value 1
+Trying to get the value of address 26
+ Trying to store the value 78 at address 26 in the page table
+The page request at address 26 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 2
+New page entry stored in ptable address at 27
+New page entry stored in ram at index value 2
+Trying to get the value of address 27
+ Trying to store the value 81 at address 27 in the page table
+The page request at address 27 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 3
+New page entry stored in ptable address at 28
+New page entry stored in ram at index value 3
+Trying to get the value of address 28
+ Trying to store the value 84 at address 28 in the page table
+The page request at address 28 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 4
+New page entry stored in ptable address at 29
+New page entry stored in ram at index value 4
+Trying to get the value of address 29
+ Trying to store the value 87 at address 29 in the page table
+The page request at address 29 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 5
+New page entry stored in ptable address at 30
+New page entry stored in ram at index value 5
+Trying to get the value of address 30
+ Trying to store the value 90 at address 30 in the page table
+The page request at address 30 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 6
+New page entry stored in ptable address at 31
+New page entry stored in ram at index value 6
+Trying to get the value of address 31
+ Trying to store the value 93 at address 31 in the page table
+The page request at address 31 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 7
+New page entry stored in ptable address at 32
+New page entry stored in ram at index value 7
+Trying to get the value of address 32
+ Trying to store the value 96 at address 32 in the page table
+The page request at address 32 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 8
+New page entry stored in ptable address at 33
+New page entry stored in ram at index value 8
+Trying to get the value of address 33
+ Trying to store the value 99 at address 33 in the page table
+The page request at address 33 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 9
+New page entry stored in ptable address at 34
+New page entry stored in ram at index value 9
+Trying to get the value of address 34
+ Trying to store the value 102 at address 34 in the page table
+The page request at address 34 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 10
+New page entry stored in ptable address at 35
+New page entry stored in ram at index value 10
+Trying to get the value of address 35
+ Trying to store the value 105 at address 35 in the page table
+The page request at address 35 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 11
+New page entry stored in ptable address at 36
+New page entry stored in ram at index value 11
+Trying to get the value of address 36
+ Trying to store the value 108 at address 36 in the page table
+The page request at address 36 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 12
+New page entry stored in ptable address at 37
+New page entry stored in ram at index value 12
+Trying to get the value of address 37
+ Trying to store the value 111 at address 37 in the page table
+The page request at address 37 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 13
+New page entry stored in ptable address at 38
+New page entry stored in ram at index value 13
+Trying to get the value of address 38
+ Trying to store the value 114 at address 38 in the page table
+The page request at address 38 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 14
+New page entry stored in ptable address at 39
+New page entry stored in ram at index value 14
+Trying to get the value of address 39
+ Trying to store the value 117 at address 39 in the page table
+The page request at address 39 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 15
+New page entry stored in ptable address at 40
+New page entry stored in ram at index value 15
+Trying to get the value of address 40
+ Trying to store the value 120 at address 40 in the page table
+The page request at address 40 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 16
+New page entry stored in ptable address at 41
+New page entry stored in ram at index value 16
+Trying to get the value of address 41
+ Trying to store the value 123 at address 41 in the page table
+The page request at address 41 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 17
+New page entry stored in ptable address at 42
+New page entry stored in ram at index value 17
+Trying to get the value of address 42
+ Trying to store the value 126 at address 42 in the page table
+The page request at address 42 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 18
+New page entry stored in ptable address at 43
+New page entry stored in ram at index value 18
+Trying to get the value of address 43
+ Trying to store the value 129 at address 43 in the page table
+The page request at address 43 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 19
+New page entry stored in ptable address at 44
+New page entry stored in ram at index value 19
+Trying to get the value of address 44
+ Trying to store the value 132 at address 44 in the page table
+The page request at address 44 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 20
+New page entry stored in ptable address at 45
+New page entry stored in ram at index value 20
+Trying to get the value of address 45
+ Trying to store the value 135 at address 45 in the page table
+The page request at address 45 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 21
+New page entry stored in ptable address at 46
+New page entry stored in ram at index value 21
+Trying to get the value of address 46
+ Trying to store the value 138 at address 46 in the page table
+The page request at address 46 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 22
+New page entry stored in ptable address at 47
+New page entry stored in ram at index value 22
+Trying to get the value of address 47
+ Trying to store the value 141 at address 47 in the page table
+The page request at address 47 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 23
+New page entry stored in ptable address at 48
+New page entry stored in ram at index value 23
+Trying to get the value of address 48
+ Trying to store the value 144 at address 48 in the page table
+The page request at address 48 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 24
+New page entry stored in ptable address at 49
+New page entry stored in ram at index value 24
+Trying to get the value of address 49
+ Trying to store the value 147 at address 49 in the page table
+The page request at address 49 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 0
+New page entry stored in ptable address at 50
+New page entry stored in ram at index value 0
+Trying to get the value of address 50
+ Trying to store the value 150 at address 50 in the page table
+The page request at address 50 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 1
+New page entry stored in ptable address at 51
+New page entry stored in ram at index value 1
+Trying to get the value of address 51
+ Trying to store the value 153 at address 51 in the page table
+The page request at address 51 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 2
+New page entry stored in ptable address at 52
+New page entry stored in ram at index value 2
+Trying to get the value of address 52
+ Trying to store the value 156 at address 52 in the page table
+The page request at address 52 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 3
+New page entry stored in ptable address at 53
+New page entry stored in ram at index value 3
+Trying to get the value of address 53
+ Trying to store the value 159 at address 53 in the page table
+The page request at address 53 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 4
+New page entry stored in ptable address at 54
+New page entry stored in ram at index value 4
+Trying to get the value of address 54
+ Trying to store the value 162 at address 54 in the page table
+The page request at address 54 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 5
+New page entry stored in ptable address at 55
+New page entry stored in ram at index value 5
+Trying to get the value of address 55
+ Trying to store the value 165 at address 55 in the page table
+The page request at address 55 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 6
+New page entry stored in ptable address at 56
+New page entry stored in ram at index value 6
+Trying to get the value of address 56
+ Trying to store the value 168 at address 56 in the page table
+The page request at address 56 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 7
+New page entry stored in ptable address at 57
+New page entry stored in ram at index value 7
+Trying to get the value of address 57
+ Trying to store the value 171 at address 57 in the page table
+The page request at address 57 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 8
+New page entry stored in ptable address at 58
+New page entry stored in ram at index value 8
+Trying to get the value of address 58
+ Trying to store the value 174 at address 58 in the page table
+The page request at address 58 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 9
+New page entry stored in ptable address at 59
+New page entry stored in ram at index value 9
+Trying to get the value of address 59
+ Trying to store the value 177 at address 59 in the page table
+The page request at address 59 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 10
+New page entry stored in ptable address at 60
+New page entry stored in ram at index value 10
+Trying to get the value of address 60
+ Trying to store the value 180 at address 60 in the page table
+The page request at address 60 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 11
+New page entry stored in ptable address at 61
+New page entry stored in ram at index value 11
+Trying to get the value of address 61
+ Trying to store the value 183 at address 61 in the page table
+The page request at address 61 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 12
+New page entry stored in ptable address at 62
+New page entry stored in ram at index value 12
+Trying to get the value of address 62
+ Trying to store the value 186 at address 62 in the page table
+The page request at address 62 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 13
+New page entry stored in ptable address at 63
+New page entry stored in ram at index value 13
+Trying to get the value of address 63
+ Trying to store the value 189 at address 63 in the page table
+The page request at address 63 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 14
+New page entry stored in ptable address at 64
+New page entry stored in ram at index value 14
+Trying to get the value of address 64
+ Trying to store the value 192 at address 64 in the page table
+The page request at address 64 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 15
+New page entry stored in ptable address at 65
+New page entry stored in ram at index value 15
+Trying to get the value of address 65
+ Trying to store the value 195 at address 65 in the page table
+The page request at address 65 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 16
+New page entry stored in ptable address at 66
+New page entry stored in ram at index value 16
+Trying to get the value of address 66
+ Trying to store the value 198 at address 66 in the page table
+The page request at address 66 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 17
+New page entry stored in ptable address at 67
+New page entry stored in ram at index value 17
+Trying to get the value of address 67
+ Trying to store the value 201 at address 67 in the page table
+The page request at address 67 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 18
+New page entry stored in ptable address at 68
+New page entry stored in ram at index value 18
+Trying to get the value of address 68
+ Trying to store the value 204 at address 68 in the page table
+The page request at address 68 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 19
+New page entry stored in ptable address at 69
+New page entry stored in ram at index value 19
+Trying to get the value of address 69
+ Trying to store the value 207 at address 69 in the page table
+The page request at address 69 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 20
+New page entry stored in ptable address at 70
+New page entry stored in ram at index value 20
+Trying to get the value of address 70
+ Trying to store the value 210 at address 70 in the page table
+The page request at address 70 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 21
+New page entry stored in ptable address at 71
+New page entry stored in ram at index value 21
+Trying to get the value of address 71
+ Trying to store the value 213 at address 71 in the page table
+The page request at address 71 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 22
+New page entry stored in ptable address at 72
+New page entry stored in ram at index value 22
+Trying to get the value of address 72
+ Trying to store the value 216 at address 72 in the page table
+The page request at address 72 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 23
+New page entry stored in ptable address at 73
+New page entry stored in ram at index value 23
+Trying to get the value of address 73
+ Trying to store the value 219 at address 73 in the page table
+The page request at address 73 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 24
+New page entry stored in ptable address at 74
+New page entry stored in ram at index value 24
+Trying to get the value of address 74
+ Trying to store the value 222 at address 74 in the page table
+The page request at address 74 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 0
+New page entry stored in ptable address at 75
+New page entry stored in ram at index value 0
+Trying to get the value of address 75
+ Trying to store the value 225 at address 75 in the page table
+The page request at address 75 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 1
+New page entry stored in ptable address at 76
+New page entry stored in ram at index value 1
+Trying to get the value of address 76
+ Trying to store the value 228 at address 76 in the page table
+The page request at address 76 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 2
+New page entry stored in ptable address at 77
+New page entry stored in ram at index value 2
+Trying to get the value of address 77
+ Trying to store the value 231 at address 77 in the page table
+The page request at address 77 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 3
+New page entry stored in ptable address at 78
+New page entry stored in ram at index value 3
+Trying to get the value of address 78
+ Trying to store the value 234 at address 78 in the page table
+The page request at address 78 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 4
+New page entry stored in ptable address at 79
+New page entry stored in ram at index value 4
+Trying to get the value of address 79
+ Trying to store the value 237 at address 79 in the page table
+The page request at address 79 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 5
+New page entry stored in ptable address at 80
+New page entry stored in ram at index value 5
+Trying to get the value of address 80
+ Trying to store the value 240 at address 80 in the page table
+The page request at address 80 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 6
+New page entry stored in ptable address at 81
+New page entry stored in ram at index value 6
+Trying to get the value of address 81
+ Trying to store the value 243 at address 81 in the page table
+The page request at address 81 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 7
+New page entry stored in ptable address at 82
+New page entry stored in ram at index value 7
+Trying to get the value of address 82
+ Trying to store the value 246 at address 82 in the page table
+The page request at address 82 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 8
+New page entry stored in ptable address at 83
+New page entry stored in ram at index value 8
+Trying to get the value of address 83
+ Trying to store the value 249 at address 83 in the page table
+The page request at address 83 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 9
+New page entry stored in ptable address at 84
+New page entry stored in ram at index value 9
+Trying to get the value of address 84
+ Trying to store the value 252 at address 84 in the page table
+The page request at address 84 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 10
+New page entry stored in ptable address at 85
+New page entry stored in ram at index value 10
+Trying to get the value of address 85
+ Trying to store the value 255 at address 85 in the page table
+The page request at address 85 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 11
+New page entry stored in ptable address at 86
+New page entry stored in ram at index value 11
+Trying to get the value of address 86
+ Trying to store the value 258 at address 86 in the page table
+The page request at address 86 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 12
+New page entry stored in ptable address at 87
+New page entry stored in ram at index value 12
+Trying to get the value of address 87
+ Trying to store the value 261 at address 87 in the page table
+The page request at address 87 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 13
+New page entry stored in ptable address at 88
+New page entry stored in ram at index value 13
+Trying to get the value of address 88
+ Trying to store the value 264 at address 88 in the page table
+The page request at address 88 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 14
+New page entry stored in ptable address at 89
+New page entry stored in ram at index value 14
+Trying to get the value of address 89
+ Trying to store the value 267 at address 89 in the page table
+The page request at address 89 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 15
+New page entry stored in ptable address at 90
+New page entry stored in ram at index value 15
+Trying to get the value of address 90
+ Trying to store the value 270 at address 90 in the page table
+The page request at address 90 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 16
+New page entry stored in ptable address at 91
+New page entry stored in ram at index value 16
+Trying to get the value of address 91
+ Trying to store the value 273 at address 91 in the page table
+The page request at address 91 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 17
+New page entry stored in ptable address at 92
+New page entry stored in ram at index value 17
+Trying to get the value of address 92
+ Trying to store the value 276 at address 92 in the page table
+The page request at address 92 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 18
+New page entry stored in ptable address at 93
+New page entry stored in ram at index value 18
+Trying to get the value of address 93
+ Trying to store the value 279 at address 93 in the page table
+The page request at address 93 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 19
+New page entry stored in ptable address at 94
+New page entry stored in ram at index value 19
+Trying to get the value of address 94
+ Trying to store the value 282 at address 94 in the page table
+The page request at address 94 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 20
+New page entry stored in ptable address at 95
+New page entry stored in ram at index value 20
+Trying to get the value of address 95
+ Trying to store the value 285 at address 95 in the page table
+The page request at address 95 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 21
+New page entry stored in ptable address at 96
+New page entry stored in ram at index value 21
+Trying to get the value of address 96
+ Trying to store the value 288 at address 96 in the page table
+The page request at address 96 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 22
+New page entry stored in ptable address at 97
+New page entry stored in ram at index value 22
+Trying to get the value of address 97
+ Trying to store the value 291 at address 97 in the page table
+The page request at address 97 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 23
+New page entry stored in ptable address at 98
+New page entry stored in ram at index value 23
+Trying to get the value of address 98
+ Trying to store the value 294 at address 98 in the page table
+The page request at address 98 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 24
+New page entry stored in ptable address at 99
+New page entry stored in ram at index value 24
+Trying to get the value of address 99
+ Trying to store the value 297 at address 99 in the page table
+The page request at address 99 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 0
+New page entry stored in ptable address at 100
+New page entry stored in ram at index value 0
+Trying to get the value of address 100
+ Trying to store the value 300 at address 100 in the page table
+The page request at address 100 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 1
+New page entry stored in ptable address at 101
+New page entry stored in ram at index value 1
+Trying to get the value of address 101
+ Trying to store the value 303 at address 101 in the page table
+The page request at address 101 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 2
+New page entry stored in ptable address at 102
+New page entry stored in ram at index value 2
+Trying to get the value of address 102
+ Trying to store the value 306 at address 102 in the page table
+The page request at address 102 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 3
+New page entry stored in ptable address at 103
+New page entry stored in ram at index value 3
+Trying to get the value of address 103
+ Trying to store the value 309 at address 103 in the page table
+The page request at address 103 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 4
+New page entry stored in ptable address at 104
+New page entry stored in ram at index value 4
+Trying to get the value of address 104
+ Trying to store the value 312 at address 104 in the page table
+The page request at address 104 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 5
+New page entry stored in ptable address at 105
+New page entry stored in ram at index value 5
+Trying to get the value of address 105
+ Trying to store the value 315 at address 105 in the page table
+The page request at address 105 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 6
+New page entry stored in ptable address at 106
+New page entry stored in ram at index value 6
+Trying to get the value of address 106
+ Trying to store the value 318 at address 106 in the page table
+The page request at address 106 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 7
+New page entry stored in ptable address at 107
+New page entry stored in ram at index value 7
+Trying to get the value of address 107
+ Trying to store the value 321 at address 107 in the page table
+The page request at address 107 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 8
+New page entry stored in ptable address at 108
+New page entry stored in ram at index value 8
+Trying to get the value of address 108
+ Trying to store the value 324 at address 108 in the page table
+The page request at address 108 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 9
+New page entry stored in ptable address at 109
+New page entry stored in ram at index value 9
+Trying to get the value of address 109
+ Trying to store the value 327 at address 109 in the page table
+The page request at address 109 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 10
+New page entry stored in ptable address at 110
+New page entry stored in ram at index value 10
+Trying to get the value of address 110
+ Trying to store the value 330 at address 110 in the page table
+The page request at address 110 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 11
+New page entry stored in ptable address at 111
+New page entry stored in ram at index value 11
+Trying to get the value of address 111
+ Trying to store the value 333 at address 111 in the page table
+The page request at address 111 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 12
+New page entry stored in ptable address at 112
+New page entry stored in ram at index value 12
+Trying to get the value of address 112
+ Trying to store the value 336 at address 112 in the page table
+The page request at address 112 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 13
+New page entry stored in ptable address at 113
+New page entry stored in ram at index value 13
+Trying to get the value of address 113
+ Trying to store the value 339 at address 113 in the page table
+The page request at address 113 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 14
+New page entry stored in ptable address at 114
+New page entry stored in ram at index value 14
+Trying to get the value of address 114
+ Trying to store the value 342 at address 114 in the page table
+The page request at address 114 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 15
+New page entry stored in ptable address at 115
+New page entry stored in ram at index value 15
+Trying to get the value of address 115
+ Trying to store the value 345 at address 115 in the page table
+The page request at address 115 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 16
+New page entry stored in ptable address at 116
+New page entry stored in ram at index value 16
+Trying to get the value of address 116
+ Trying to store the value 348 at address 116 in the page table
+The page request at address 116 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 17
+New page entry stored in ptable address at 117
+New page entry stored in ram at index value 17
+Trying to get the value of address 117
+ Trying to store the value 351 at address 117 in the page table
+The page request at address 117 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 18
+New page entry stored in ptable address at 118
+New page entry stored in ram at index value 18
+Trying to get the value of address 118
+ Trying to store the value 354 at address 118 in the page table
+The page request at address 118 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 19
+New page entry stored in ptable address at 119
+New page entry stored in ram at index value 19
+Trying to get the value of address 119
+ Trying to store the value 357 at address 119 in the page table
+The page request at address 119 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 20
+New page entry stored in ptable address at 120
+New page entry stored in ram at index value 20
+Trying to get the value of address 120
+ Trying to store the value 360 at address 120 in the page table
+The page request at address 120 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 21
+New page entry stored in ptable address at 121
+New page entry stored in ram at index value 21
+Trying to get the value of address 121
+ Trying to store the value 363 at address 121 in the page table
+The page request at address 121 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 22
+New page entry stored in ptable address at 122
+New page entry stored in ram at index value 22
+Trying to get the value of address 122
+ Trying to store the value 366 at address 122 in the page table
+The page request at address 122 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 23
+New page entry stored in ptable address at 123
+New page entry stored in ram at index value 23
+Trying to get the value of address 123
+ Trying to store the value 369 at address 123 in the page table
+The page request at address 123 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 24
+New page entry stored in ptable address at 124
+New page entry stored in ram at index value 24
+Trying to get the value of address 124
+ Trying to store the value 372 at address 124 in the page table
+The page request at address 124 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 0
+No space in ssd, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 0
+New page entry stored in ptable address at 125
+New page entry stored in ram at index value 0
+Trying to get the value of address 125
+ Trying to store the value 375 at address 125 in the page table
+The page request at address 125 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 1
+No space in ssd, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 1
+New page entry stored in ptable address at 126
+New page entry stored in ram at index value 1
+Trying to get the value of address 126
+ Trying to store the value 378 at address 126 in the page table
+The page request at address 126 seems to be in ram, changing the value!!
+
+
+ CREATION OF A NEW PAGE BEGAN!
+No space in ram, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 2
+No space in ssd, evicting a page!
+The page that will be evicted decided by FIFO logic is at pagetable index 2
+New page entry stored in ptable address at 127
+New page entry stored in ram at index value 2
+Trying to get the value of address 127
+ Trying to store the value 381 at address 127 in the page table
+The page request at address 127 seems to be in ram, changing the value!!
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+freeing page
+
+
+ TOTAL TIME TAKEN IS: 0.014046 
+
